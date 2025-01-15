@@ -177,7 +177,7 @@ const App = () => {
 
                 <View style={styles.inputWrapper}>
 
-                  <Text style={styles.heading}>Include Lowercase</Text>
+                  <Text style={styles.heading}>Include Digits</Text>
                   <View>
                   <BouncyCheckbox
                   useBuiltInState = {false}
